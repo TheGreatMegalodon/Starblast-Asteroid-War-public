@@ -14,7 +14,7 @@ And guess what.. This is only the beginning!<br>
 <br>
 
 | Title | Name | Contributions |
-| :---: | :---: | :--- |
+| --- | --- | --- |
 | Original Idea | **LX** |  |
 | Main Developer | **Megalodon** |  |
 | Main Ship Builder | **Hazard** |  |
