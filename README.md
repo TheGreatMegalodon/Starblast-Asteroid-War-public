@@ -1,4 +1,4 @@
-<div style="display: flex; width: 1000px; justify-content: center;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif" style="width: 100%;">
 </div>
 
