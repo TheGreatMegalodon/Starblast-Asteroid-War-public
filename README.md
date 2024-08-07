@@ -1,9 +1,12 @@
 # Starblast-Asteroid-War (v5.0)
 > Hello, this is all of our public SAW codes, images and shiptrees.
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row;">
   <img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif" alt="SAW_Banner" width="400">
-  <h2 style="margin-top: 250px;">https://discord.gg/z55AKcpCNS</h2>
+  <div>
+    <h3>https://discord.gg/z55AKcpCNS</h3>
+    <h3>https://discord.gg/z55AKcpCNS</h3>
+  </div>
 </div>
 
 ##    What is SAW about ?
