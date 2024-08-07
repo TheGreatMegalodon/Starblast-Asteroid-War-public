@@ -4,12 +4,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif" alt="SAW_Banner" width="400">
   <div>
-    ![Static Badge](https://img.shields.io/badge/:badgeContent)
-
+    <h2>Join the server now!</h2>
+    <h4>https://discord.gg/z55AKcpCNS</h4>
   </div>
 </div>
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ##    What is SAW about ?
 Starblast Asteroid War is a team mode game in which players must battle for the win.<br>
