@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif">
+  <img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif" alt="SAW_Banner">
 </div>
 
 # Starblast-Asteroid-War (v5.0)
