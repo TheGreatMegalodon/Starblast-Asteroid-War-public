@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif" alt="SAW_Banner" width="400">
-  <h2 style="margin-top: 25;">https://discord.gg/z55AKcpCNS</h2>
+  <h2 style="margin-top: 250;">https://discord.gg/z55AKcpCNS</h2>
 </div>
 
 ##    What is SAW about ?
