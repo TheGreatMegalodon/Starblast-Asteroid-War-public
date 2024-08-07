@@ -1,4 +1,4 @@
-<img src="https://github.com/TheGreatMegalodon/Starblast-Asteroid-War-public/blob/main/images/SAWreadme.png">
+<img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif">
 
 # Starblast-Asteroid-War (v5.0)
 #### Hello, this is all of our public SAW codes, images and shiptrees.
