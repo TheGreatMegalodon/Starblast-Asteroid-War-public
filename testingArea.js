@@ -299,7 +299,7 @@ const vocabulary = [
 var SAWLogo = {
   id: "SAWLogo",
   obj: "https://starblast.data.neuronality.com/mods/objects/plane.obj",
-  emissive: "https://raw.githubusercontent.com/TheGreatMegalodon/Dueling-Component/main/Dueling_Component/7c8bce25332eb3cd44429961a6f793cdabdg54.png",
+  emissive: "https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWgamelogo.png",
 };
 
 this.options = {
