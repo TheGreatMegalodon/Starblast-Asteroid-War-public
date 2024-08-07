@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheGreatMegalodon/Starblast-Asteroid-War-public/main/images/SAWreadme.gif" alt="SAW_Banner" width="400">
   <div>
-    <h3>Join the server now!</h3>
+    <h2>Join the server now!</h2>
     <h4>https://discord.gg/z55AKcpCNS</h4>
   </div>
 </div>
