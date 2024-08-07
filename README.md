@@ -35,4 +35,4 @@ And guess what.. This is only the beginning!<br>
 
 <br>
 
-Thanks for reading, have fun with our mode!
+Thanks for reading, have fun with our mode(s)!
