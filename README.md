@@ -1,5 +1,5 @@
 # Starblast-Asteroid-War (v5.0)
-> Hello, this is all of our public SAW codes, images and shiptrees.
+### Hello, this is all of our public SAW codes, images and shiptrees.
 
 ### Original Idea:  
 > **LX**
