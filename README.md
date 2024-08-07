@@ -8,6 +8,7 @@
 
   </div>
 </div>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ##    What is SAW about ?
 Starblast Asteroid War is a team mode game in which players must battle for the win.<br>
