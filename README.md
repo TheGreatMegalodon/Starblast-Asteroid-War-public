@@ -28,5 +28,4 @@ And guess what.. This is only the beginning!<br>
 
 <br>
 
-## Support
-> [Discord server](https://discord.gg/z55AKcpCNS)
+Thanks for reading, have fun with our mode!
