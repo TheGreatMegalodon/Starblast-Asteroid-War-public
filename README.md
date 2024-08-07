@@ -18,7 +18,7 @@ And guess what.. This is only the beginning!<br>
 | Original Idea | **LX** | _Had the idea and gathered the current SAW team_ |
 | Main Developer | **Megalodon** | _Created every mod related to SAW_ |
 | Main Ship Builder | **Hazard** | _Created every ships that are on the SAW shiptree_ |
-| --- | --- | --- |
+|  |  |  |
 | Contributor | **Nébuleuse** | _Active Contributions/Ship Balancing Help/Events Orginasation_ |
 | Contributor | **Bylolopro** | _Ship Building Help_ |
 | Contributor | **SCM/TEM** | _Ship Building Help_ |
