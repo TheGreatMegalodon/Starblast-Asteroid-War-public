@@ -9,12 +9,15 @@
   </div>
 </div>
 
+<br>
+
 ##    What is SAW about ?
 Starblast Asteroid War is a team mode game in which players must battle for the win.<br>
 Our new mode adds a large new ship tree that introduces new gameplay elements as well as new game mechanics such as solar pulses and asteroid waves..<br>
 A Saucer can also be seen, often referred to as the 'King of Asteroids.' Defeating this boss grants a substantial advantage.<br>
 And guess what.. This is only the beginning!<br>
 #### This is SAW!
+
 <br>
 
 | Title | Name | Contributions |
