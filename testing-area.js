@@ -103,7 +103,6 @@ var Helios_706 = '{"name":"Helios","level":7,"model":6,"size":5.8,"specs":{"shie
 var ships = [
   //T1
   Oresta_101,
-  Fly_102,
   
   //T2
   Scearp_201,
