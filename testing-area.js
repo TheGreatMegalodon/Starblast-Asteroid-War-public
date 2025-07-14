@@ -845,8 +845,8 @@ this.tick = function(game) {
 };
 
 ;(function() {
-  if (game.custom.gameLaunched == true) return;
-  //game.custom.gameLaunched = true;
+  //if (game.custom.gameLaunched == true) return;
+  game.custom.gameLaunched = true;
   
   utilities.buildShiptree();
 }).call(this);
