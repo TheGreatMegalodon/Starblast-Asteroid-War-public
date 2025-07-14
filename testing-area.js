@@ -11,7 +11,7 @@
 */
 
 var game_name = "Starblast Testing Area";
-var game_version = "v2.0.1";
+var game_version = "v2.0.2";
 var delays = { // in seconds
   // advised to keep 0.5 or 1
   hide: 0.5, 
@@ -668,10 +668,9 @@ const selector = {
     ship.custom.actualization_reducer = stepTimeout.set(() => {
       const storage = info.shipTree;
       ship.setUIComponent(this.highlight(ship, `selector_ships_${storage[ship.type].name}_${ship.type}`, true));
-      
-      if (ship.custom.previous_ship == null) return;
-      ship.setUIComponent(this.highlight(ship, `selector_ships_${storage[ship.custom.previous_ship].name}_${ship.custom.previous_ship}`, false));
-    
+      if (ship.custom.previous_ship != ship.type) {
+        ship.setUIComponent(this.highlight(ship, `selector_ships_${storage[ship.custom.previous_ship].name}_${ship.custom.previous_ship}`, false));
+      }
       ship.custom.previous_ship = ship.type;
     }, 0.4);
   },
@@ -815,7 +814,7 @@ this.event = function(event, game) {
       if (!event.ship.custom.init) {
         event.ship.custom.init = true;
         event.ship.custom.selector_button_list = [];
-        event.ship.custom.previous_ship = null;
+        event.ship.custom.previous_ship = 101;
         
         Object.entries(buttons).forEach(([key, value]) => {
           if (key === "pos") return;
