@@ -23,6 +23,7 @@ And guess what.. This is only the beginning!<br>
 | Title | Name | Contributions |
 | --- | --- | --- |
 | Original Idea | **LX** | _Had the idea and gathered the current SAW team_ |
+|  |  |  |
 | Main Developer | **Megalodon** | _Created every mod related to SAW_ |
 | Main Ship Builder | **Hazard** | _Created every ships that are on the SAW shiptree_ |
 |  |  |  |
@@ -32,6 +33,23 @@ And guess what.. This is only the beginning!<br>
 | Contributor | **Bylolopro** | _Ship Building Help_ |
 | Contributor | **SCM/TEM** | _Ship Building Help_ |
 | Contributor | **Bhpsngum** | _Coding Help_ |
+
+<br>
+
+##    What is SAW BattleField about ?
+none yet ;)
+
+<br>
+
+| Title | Name | Contributions |
+| --- | --- | --- |
+| Original Idea | **ThirdToeMan** | _Had the idea of the mod_ |
+| Coordinator | **LX** | _Gathered the current SAW team_ |
+|  |  |  |
+| Main Developer | **Megalodon** | _Created every mod related to SAW_ |
+| Main Ship Builder | **Hazard** | _Created every ships that are on the SAW shiptree_ |
+|  |  |  |
+| Contributor | **Nébuleuse** | _Active Contributions/Maps creaton_ |
 
 <br>
 
