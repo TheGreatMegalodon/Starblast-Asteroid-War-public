@@ -27,7 +27,7 @@ Fast-paced, strategic, and ever-changing, BattleField pushes your limits.
 
 <br>
 
-Will you survive the chaos and bring the Scrap home — or be swallowed by the star?
+#### Will you survive the chaos and bring the Scrap home — or be swallowed by the star?
 
 <br>
 
@@ -53,7 +53,7 @@ A Saucer can also be seen, often referred to as the 'King of Asteroids.' Defeati
 
 <br>
 
-And guess what.. This is only the beginning!
+#### And guess what.. This is only the beginning!
 
 <br>
 
