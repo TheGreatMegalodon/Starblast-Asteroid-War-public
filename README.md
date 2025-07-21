@@ -25,8 +25,6 @@ Teamwork and strategy make the difference between triumph and collapse. As the b
 The fight takes place above a dying star, whose unstable gravity constantly shifts the battlefield. Asteroids spiral inward, creating a lethal central zone that demands awareness and quick decisions. <br>
 Fast-paced, strategic, and ever-changing, BattleField pushes your limits. 
 
-<br>
-
 #### Will you survive the chaos and bring the Scrap home — or be swallowed by the star?
 
 <br>
@@ -50,8 +48,6 @@ Fast-paced, strategic, and ever-changing, BattleField pushes your limits.
 SAW: Team mode, is a team mode game in which players must battle for the win.<br>
 Our new mode adds a large new ship tree that introduces new gameplay elements as well as new game mechanics such as solar pulses and asteroid waves..<br>
 A Saucer can also be seen, often referred to as the 'King of Asteroids.' Defeating this boss grants a substantial advantage.
-
-<br>
 
 #### And guess what.. This is only the beginning!
 
