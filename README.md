@@ -47,7 +47,7 @@ Will you survive the chaos and bring the Scrap home — or be swallowed by the s
 
 <br>
 
-Starblast Asteroid War is a team mode game in which players must battle for the win.<br>
+SAW: Team mode, is a team mode game in which players must battle for the win.<br>
 Our new mode adds a large new ship tree that introduces new gameplay elements as well as new game mechanics such as solar pulses and asteroid waves..<br>
 A Saucer can also be seen, often referred to as the 'King of Asteroids.' Defeating this boss grants a substantial advantage.
 
